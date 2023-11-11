@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\atividade\atividades\lista_de_compras\lista_de_compras\bin\Debug\lista_de_compras.exe.config
+C:\Users\Usuario\source\repos\atividade\atividades\lista_de_compras\lista_de_compras\bin\Debug\lista_de_compras.exe
+C:\Users\Usuario\source\repos\atividade\atividades\lista_de_compras\lista_de_compras\bin\Debug\lista_de_compras.pdb
+C:\Users\Usuario\source\repos\atividade\atividades\lista_de_compras\lista_de_compras\obj\Debug\lista_de_compras.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\atividade\atividades\lista_de_compras\lista_de_compras\obj\Debug\lista_de_compras.Form1.resources
+C:\Users\Usuario\source\repos\atividade\atividades\lista_de_compras\lista_de_compras\obj\Debug\lista_de_compras.Properties.Resources.resources
+C:\Users\Usuario\source\repos\atividade\atividades\lista_de_compras\lista_de_compras\obj\Debug\lista_de_compras.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\atividade\atividades\lista_de_compras\lista_de_compras\obj\Debug\lista_de_compras.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\atividade\atividades\lista_de_compras\lista_de_compras\obj\Debug\lista_de_compras.exe
+C:\Users\Usuario\source\repos\atividade\atividades\lista_de_compras\lista_de_compras\obj\Debug\lista_de_compras.pdb
